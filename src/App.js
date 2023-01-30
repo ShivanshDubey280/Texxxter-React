@@ -47,6 +47,8 @@ function App() {
             {/* /users --> Component 1
         /users/home --> Component 2 */}
             <Route exact path="/about" element={<About mode={mode} />}></Route>
+            <Route exact path="/Texxxter-React" element={<TextForm showAlert={showAlert} heading="Try Texxxter - word counter, character counter, remove extra spaces" mode={mode} />
+            }></Route>
             <Route exact path="/" element={<TextForm showAlert={showAlert} heading="Try Texxxter - word counter, character counter, remove extra spaces" mode={mode} />
             }></Route>
           </Routes>

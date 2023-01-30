@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Texxxter-React/static/css/main.d9880d40.css",
+    "main.js": "/Texxxter-React/static/js/main.0707e339.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Texxxter-React/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Texxxter-React/index.html",
+    "main.d9880d40.css.map": "/Texxxter-React/static/css/main.d9880d40.css.map",
+    "main.0707e339.js.map": "/Texxxter-React/static/js/main.0707e339.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Texxxter-React/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9880d40.css",
+    "static/js/main.0707e339.js"
+  ]
+}
